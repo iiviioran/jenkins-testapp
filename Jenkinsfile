@@ -1,7 +1,7 @@
 def CONTAINER_NAME="jenkins-testapp"
 def CONTAINER_TAG="latest"
 def DOCKER_HUB_USER="iiviioran"
-def HTTP_PORT="8090"
+def HTTP_PORT="8099"
 
 node {
 
