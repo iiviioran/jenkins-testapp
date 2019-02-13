@@ -1,7 +1,7 @@
 package com.kodcu;
 
 /*
- * Created by hakdogan on 23/11/2017
+ * Created by nate
  */
 
 import org.springframework.boot.SpringApplication;
