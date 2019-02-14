@@ -1,7 +1,7 @@
 package com.kodcu.controller;
 
 /*
- * Created by hakdogan on 23/11/2017
+ * Created by nate on 23/11/2017
  */
 
 import org.springframework.stereotype.Controller;
